@@ -1,4 +1,4 @@
-# Fitting a model using Fully vonnected Layers
+# Fitting a model using Fully connected Layers
 
 Hidden Layer 1: The idea is to extract broad features from the input. This allows the model capture patterns such as shape, edges, and textures. 100 neurons were used as the allows the model capture a wide variety of low level features from the image.
 A ReLU activation was the applied as this help retain non-linearity and mitigates vanishing gradient issues
